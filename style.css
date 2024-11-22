@@ -1,0 +1,36 @@
+#one{
+    background-image: url(../img/simon-berger-aZjw7xI3QAA-unsplash.jpg);
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+ address,span{
+    
+    margin-top: 20px;
+    margin-right: 60px;
+}
+address,a{
+    margin-bottom: 20px;
+}
+#two{
+    margin-top: 50px;
+}
+#three{
+    margin-top: 20px
+    ;
+}
+input{
+    margin-top: 20px;
+}
+#four{
+    display: flex;
+    margin: 50px;
+}
+#four,#five{
+    margin: 50px;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
